@@ -1,9 +1,9 @@
 # LucasFernandes.readme
-Hi there, I'm Lucas 👋
+Hi there, I'm Lucas 🤙
 
-- I'm a Computer Science Student 👨‍💻
-- I live in Recife, Brazil 📍
-- I'm always open to learn a lot of things 🎯
+- I'm a Computer Science Student 👨🏽‍💻
+- I live in Recife, Brazil 🌎
+- I'm always on the lookout for new opportunities. 🔬
 
 <div align="center">
   <a href="[https://github.com/lucasfernandes27]">
@@ -21,6 +21,5 @@ Hi there, I'm Lucas 👋
   <a href = "mailto:fernades.lucas.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/lucas-fernandes-de-almeida-silva-724a4b20a/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaellabalerini/rafaellabalerini/blob/output/github-contribution-grid-snake.svg)
   
   </div>
