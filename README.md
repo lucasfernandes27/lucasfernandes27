@@ -21,5 +21,5 @@ Hi there, I'm Lucas 🤙
   <a href = "mailto:fernades.lucas.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/lucas-fernandes-de-almeida-silva-724a4b20a/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  ![snake gif](https://github.com/lucasfernandes27/lucasfernandes27/blob/output/github-contribution-grid-snake.svg)
+
   </div>
