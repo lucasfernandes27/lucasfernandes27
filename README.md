@@ -23,3 +23,5 @@ Hi there, I'm Lucas 🤙
  
 
   </div>
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasfernandes27&bg_color=a892dd&color=000000&line=0a2ddb&point=06c0e5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
