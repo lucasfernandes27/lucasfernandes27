@@ -1,16 +1,16 @@
 
 # LucasFernandes.readme
-Hi there, I'm Lucas 🤙
 
-- I'm a Computer Science Student 👨🏽‍💻
-- I live in Recife, Brazil 🌎
-- I'm always on the lookout for new opportunities. 🔬
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Fernandes;I'm+19+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="[https://github.com/lucasfernandes27]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfernandes27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfernandes27&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,4 +25,4 @@ Hi there, I'm Lucas 🤙
 
   </div>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasfernandes27&bg_color=111327&color=ffffff&line=0b2ee0&point=05c5eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasfernandes27&bg_color=0d1117&color=00fad0&line=0b2ee0&point=05c5eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
