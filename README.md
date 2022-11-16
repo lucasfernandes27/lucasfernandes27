@@ -1,3 +1,5 @@
+<img width=100% src = "https://capsule-render.vercel.app/api?type=waving&color=000088&height=120%section=header"/>
+
 # LucasFernandes.readme
 Hi there, I'm Lucas 🤙
 
