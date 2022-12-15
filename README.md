@@ -22,5 +22,4 @@
  
 
   </div>
-  
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucasfernandes27&bg_color=0d1117&color=00fad0&line=0b2ee0&point=05c5eb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
