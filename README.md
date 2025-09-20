@@ -12,13 +12,6 @@ Me chamo Lucas Fernandes. Atualmente, estou cursando Ciência da Computação.
             src="https://custom-icon-badges.demolab.com/github/stars/lucasfernandes27?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/lucasfernandes27">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followerslucasfernandes27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
