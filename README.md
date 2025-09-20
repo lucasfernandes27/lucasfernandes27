@@ -3,6 +3,8 @@
 **`Desenvolvedor Back-End`**
 
 Me chamo Lucas Fernandes. Atualmente, estou cursando Ciência da Computação.
+
+<p align="left">
     <a href="https://github.com/lucasfernandes27?tab=repositories">
         <img 
             alt="Total de estrelas" 
