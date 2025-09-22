@@ -1,77 +1,49 @@
-# Lucas Fernandes
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-**`Desenvolvedor Back-End`**
+###
 
-Me chamo Lucas Fernandes. Atualmente, estou cursando Ciência da Computação.
+<div align="center">
+  <a href="https://www.linkedin.com/in/fernandeslucas27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bielartur.Bielartur&" />
+</div>
+
+###
+
+<h1 align="center">Olá! 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+###
 
 <p align="left">
-    <a href="https://github.com/lucasfernandes27?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/lucasfernandes27?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+Sou um desenvolvedor back-end de Pernambuco, Brasil. <br><br>
+- 📚 Atualmente estudando mais sobre Django e integração de APIs<br>
 </p>
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,docker,django)](https://skillicons.dev)
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucasfernandes27&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<h3 align="left">📊 Minhas estatísticas</h3>
+
+###
 
 <img 
       align="left" 
