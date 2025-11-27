@@ -27,8 +27,8 @@
 ###
 
 <p align="left">
-Sou um desenvolvedor back-end de Pernambuco, Brasil. <br><br>
-- 📚 Atualmente estudando mais sobre Django e integração de APIs<br>
+Sou um DevOps Enginner de Recife, Pernambuco. <br><br>
+- 📚 Atualmente atuo na área, focando nos meus estudos em docker, linux, nginx e postgress<br>
 </p>
 
 ###
@@ -37,7 +37,7 @@ Sou um desenvolvedor back-end de Pernambuco, Brasil. <br><br>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,docker,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,nginx,mysql,postgres,html,css,javascript)](https://skillicons.dev)
 
 ###
 
