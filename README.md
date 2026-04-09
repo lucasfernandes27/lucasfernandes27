@@ -17,11 +17,11 @@
 </div>
 
 ```yaml
-nome:        "Lucas Fernandes"
-localização: "Recife, Pernambuco 🇧🇷"
-função:      "Full Stack Developer"
-foco:        ["Back-end", "Front-end", "DevOps"]
-sempre:      "Transformando café em código desde o primeiro commit ☕"
+Nome:        "Lucas Fernandes"
+Localização: "Recife, Pernambuco 🇧🇷"
+Função:      "Full Stack Developer"
+Foco:        ["Back-end", "Front-end", "DevOps"]
+Sempre:      "Transformando café em código desde o primeiro commit ☕"
 ```
 
 ---
