@@ -19,7 +19,7 @@
 ```yaml
 nome:        "Lucas Fernandes"
 localização: "Recife, Pernambuco 🇧🇷"
-função:      "Full Stack Developer"
+função:      "Back End Developer"
 foco:        ["Back-end", "Front-end", "DevOps"]
 sempre:      "Transformando café em código desde o primeiro commit ☕"
 ```
