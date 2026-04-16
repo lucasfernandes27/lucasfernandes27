@@ -20,7 +20,7 @@
 nome:        "Lucas Fernandes"
 localização: "Recife, Pernambuco 🇧🇷"
 função:      "Back End Developer"
-foco:        ["Back-end", "Front-end", "DevOps"]
+foco:        ["Back-end", "DevOps"]
 sempre:      "Transformando café em código desde o primeiro commit ☕"
 ```
 
