@@ -19,8 +19,8 @@
 ```yaml
 nome:        "Lucas Fernandes"
 localização: "Recife, Pernambuco 🇧🇷"
-função:      "Back End Developer"
-foco:        ["Back-end", "DevOps"]
+função:      "DevOps"
+foco:        ["DevOps , Back-End"]
 sempre:      "Transformando café em código desde o primeiro commit ☕"
 ```
 
